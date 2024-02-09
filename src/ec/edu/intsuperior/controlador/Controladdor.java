@@ -9,7 +9,7 @@ import ec.edu.intsuperior.vista.Formulario_CRUD;
 
 /**
  *
- * @author Santiago
+ * @author HP
  */
 public class Controladdor {
     Formulario_CRUD fcrud= new Formulario_CRUD(this);
