@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Santiago
+ * @author HP
  */
 public class Formulario_CRUD extends javax.swing.JFrame {
 
