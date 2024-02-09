@@ -9,7 +9,7 @@ import ec.edu.intsuperior.controlador.Controladdor;
 
 /**
  *
- * @author Santiago
+ * @author HP
  */
 public class Aplication {
     public static void main(String[] args) {
